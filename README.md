@@ -1,7 +1,8 @@
 - 👋 Hi, I’m aniikiit
 - 👀 I’m interested in Coding along with Testing the application
-- 🌱 I’m currently learning the new Staffs so that I grow everyday.And will be graduating in 2021. 
-- 📫 How to reach me??  Mail me at anikit781@gmail.com -Feel free to contact me anytime
+- 🌱 I’m currently learning the new staffs so that I grow everyday. 
+- 🎓 I'll  be graduating in 2021 holding a Computer Science Degree. 
+- 📫 How to reach me??  Mail me at anikit781@gmail.com -Feel free to contact me anytime.
 
 
    -- 
